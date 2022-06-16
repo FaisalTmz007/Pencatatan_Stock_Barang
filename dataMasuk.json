@@ -1,0 +1,86 @@
+[
+    {
+        "barang masuk": "PUPUK KOMPOS",
+        "jumlah masuk": 20,
+        "uang keluar": 500000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Stock baru"
+    },
+    {
+        "barang masuk": "PUPUK UREA",
+        "jumlah masuk": 20,
+        "uang keluar": 400000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Stock baru"
+    },
+    {
+        "barang masuk": "BIBIT PADI",
+        "jumlah masuk": 15,
+        "uang keluar": 225000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Stock baru"
+    },
+    {
+        "barang masuk": "BIBIT KENTANG",
+        "jumlah masuk": 15,
+        "uang keluar": 210000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Stock baru"
+    },
+    {
+        "barang masuk": "BIBIT CABE",
+        "jumlah masuk": 10,
+        "uang keluar": 100000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Stock baru"
+    },
+    {
+        "barang masuk": "BIBIT PADI",
+        "jumlah masuk": 2,
+        "uang keluar": 30000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Jumlah stock diubah"
+    },
+    {
+        "barang masuk": "PUPUK KOMPOS",
+        "jumlah masuk": 2,
+        "uang keluar": 50000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Jumlah stock diubah"
+    },
+    {
+        "barang masuk": "BIBIT CABE",
+        "jumlah masuk": 10,
+        "uang keluar": 100000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Stock baru"
+    },
+    {
+        "barang masuk": "BIBIT KENTANG",
+        "jumlah masuk": 2,
+        "uang keluar": 28000,
+        "tanggal": "2021-12-13",
+        "keterangan": "Jumlah stock diubah"
+    },
+    {
+        "barang masuk": "PUPUK KOMPOS",
+        "jumlah masuk": 5,
+        "uang keluar": 125000,
+        "tanggal": "2021-12-14",
+        "keterangan": "Jumlah stock diubah"
+    },
+    {
+        "barang masuk": "BIBIT CABAI",
+        "jumlah masuk": 15,
+        "uang keluar": 225000,
+        "tanggal": "2021-12-14",
+        "keterangan": "Stock baru"
+    },
+    {
+        "barang masuk": "PUPUK KOMPOS",
+        "jumlah masuk": 2,
+        "uang keluar": 50000,
+        "tanggal": "2021-12-14",
+        "keterangan": "Jumlah stock diubah"
+    }
+]

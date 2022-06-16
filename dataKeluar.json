@@ -1,0 +1,58 @@
+[
+    {
+        "barang keluar": "BIBIT CABE",
+        "jumlah keluar": 10,
+        "uang masuk": 100000,
+        "tanggal pesanan": "2021-12-13",
+        "keterangan": "Stock dihapus"
+    },
+    {
+        "barang keluar": "PUPUK UREA",
+        "jumlah keluar": 2,
+        "uang masuk": 40000,
+        "tanggal pesanan": "2021-12-13",
+        "keterangan": "Jumlah stock diubah"
+    },
+    {
+        "barang keluar": "PUPUK KOMPOS",
+        "jumlah keluar": 2,
+        "uang masuk": 50000,
+        "tanggal pesanan": "2021-12-13",
+        "keterangan": "Barang dipesan"
+    },
+    {
+        "barang keluar": "BIBIT CABE",
+        "jumlah keluar": 10,
+        "uang masuk": 100000,
+        "tanggal pesanan": "2021-12-13",
+        "keterangan": "Stock dihapus"
+    },
+    {
+        "barang keluar": "BIBIT PADI",
+        "jumlah keluar": 2,
+        "uang masuk": 30000,
+        "tanggal pesanan": "2021-12-13",
+        "keterangan": "Jumlah stock diubah"
+    },
+    {
+        "barang keluar": "BIBIT PADI",
+        "jumlah keluar": 2,
+        "uang masuk": 30000,
+        "tanggal pesanan": "2021-12-13",
+        "keterangan": "Barang dipesan"
+    },
+    {
+        "barang keluar": "BIBIT PADI",
+        "jumlah keluar": 13,
+        "uang masuk": 195000,
+        "tanggal pesanan": "2021-12-14",
+        "keterangan": "Stock dihapus"
+    },
+    {
+        "barang keluar": "PUPUK UREA",
+        "jumlah keluar": 5,
+        "uang masuk": 100000,
+        "tanggal pesanan": "2021-12-14",
+        "keterangan": "Jumlah stock diubah"
+    }
+]

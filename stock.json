@@ -1,0 +1,22 @@
+[
+    {
+        "nama barang": "PUPUK KOMPOS",
+        "jumlah barang": 27,
+        "harga barang": 25000
+    },
+    {
+        "nama barang": "PUPUK UREA",
+        "jumlah barang": 15,
+        "harga barang": 20000
+    },
+    {
+        "nama barang": "BIBIT KENTANG",
+        "jumlah barang": 15,
+        "harga barang": 14000
+    },
+    {
+        "nama barang": "BIBIT CABAI",
+        "jumlah barang": 15,
+        "harga barang": 15000
+    }
+]
